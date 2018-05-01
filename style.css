@@ -1,0 +1,42 @@
+div {
+    padding-top: 20%;
+    width: 20%;
+    background-color: gray;
+    float: left;
+}
+
+body:nth-child(5n) {
+    clear: both;
+}
+
+.d0 {
+    background-color: white;
+}
+
+.d1 {
+    background-color: red;
+}
+
+.d2 {
+    background-color: purple;
+}
+
+.d3 {
+    background-color: blue;
+}
+
+.d4 {
+    background-color: green;
+}
+
+.d5 {
+    background-color: yellow;
+}
+
+.d6 {
+    background-color: orange;
+}
+
+.d7 {
+    background-color: gray;
+}
